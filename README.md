@@ -3,4 +3,5 @@ Simple do you know me quiz created for the first assignment of neogcamp and also
 By doning this project you can understand.  
 1.how to make function in JavaScript and also how to call the function.  
 2.What is array?,how to access elements in the array.  
-3.How for loop works.  
+3.How for loop works.    
+Live app: https://replit.com/@MaheshDeshmukh2/Do-you-know-me?embed=1&output=1#index.js 
